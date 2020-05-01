@@ -1,2 +1,2 @@
 # IntelCube
-A package for Ready-to-use Machine Learning models.
+A Plug-and-Play Machine Learning package.
